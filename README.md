@@ -1,1 +1,1 @@
-Java Assignment CCE22024
+JavaAssignment CCE22024
